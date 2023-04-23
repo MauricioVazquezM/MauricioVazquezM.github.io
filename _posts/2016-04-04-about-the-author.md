@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Mauricio Vazquez"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Mauricio. e, I am a third-year student in a double major program, Actuary and Data Science. I am passionate about programming and mathematics. I really like to read and practice outdoor activities. Any doubt or question, do not hesitate to contact me.
+
+Kind regards,
+    Mauricio Vazquez
