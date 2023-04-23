@@ -1,7 +1,7 @@
 # My personal github page
 
 <p align="center">
-  <img width="400" height="400" src="![image](https://user-images.githubusercontent.com/98365606/233857935-332128a8-69d5-4347-a5be-ba06fcf52b0d.png)">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/98365606/233857935-332128a8-69d5-4347-a5be-ba06fcf52b0d.png">
 </p>
 
 ### Template
