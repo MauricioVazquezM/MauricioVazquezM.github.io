@@ -1,7 +1,7 @@
 # My personal github page
 
 <p align="center">
-  <img width="400" height="400" src="https://e7.pngegg.com/pngimages/255/566/png-clipart-computer-icons-person-outline-cartoon-megaphone.png">
+  <img width="400" height="400" src="https://w7.pngwing.com/pngs/439/35/png-transparent-computer-icons-thought-thinking-miscellaneous-text-people-thumbnail.png">
 </p>
 
 ### Template
