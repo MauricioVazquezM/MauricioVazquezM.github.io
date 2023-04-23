@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "About me..."
-description:	       "I try to do the right thing at the right time."
+description:	       " I try to do the right thing at the right time "
 author:              "Mauricio Vazquez"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
