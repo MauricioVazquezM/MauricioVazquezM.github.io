@@ -10,7 +10,7 @@ image: city-1.jpg
 # Analysis of the virality of femicides on social networks "Lima Buendía"
 
 **By Mauricio Vazquez Moran,
-  Jr. Data Analyst of the research project "Lima Buendía".**\
+  Jr. Data Analyst of the research project "Lima Buendía".**
  
 ### Introduction
 
