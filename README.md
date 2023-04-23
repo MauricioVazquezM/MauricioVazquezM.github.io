@@ -7,7 +7,7 @@
 ### Template
 Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. 
 
-### Caption
+### Abstract
 In this repository, you will find my personal github page. Within this page, you can take a look at my resume, my main interests or hobbies and a glimpse of the structuring of the project, of which I was a participant, Lima Buendía.
 
 
