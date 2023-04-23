@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projects"
+title: "Lima Buendia Feminicide Analysis Project"
 author: "Mauricio Vazquez Moran"
 categories: documentation
 tags: [documentation,sample]
