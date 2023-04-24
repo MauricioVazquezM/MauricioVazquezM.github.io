@@ -11,8 +11,6 @@ image: arctic-2.jpg
 
 ![2](https://user-images.githubusercontent.com/98365606/233892183-abbfc98d-acc5-49fa-8a68-c3da091474aa.jpg)
 
-![3](https://user-images.githubusercontent.com/98365606/233892198-fbc27b13-3d4c-4d97-8813-53d1e89c7f11.jpg)
-
 ![4](https://user-images.githubusercontent.com/98365606/233892212-c0a581c3-0d73-447b-a51d-5980d9e47603.jpg)
 
 ![5](https://user-images.githubusercontent.com/98365606/233892219-897681d6-076d-4304-82c8-606e2a8afd79.jpg)
