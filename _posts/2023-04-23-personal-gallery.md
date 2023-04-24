@@ -4,7 +4,7 @@ title: "Personal gallery"
 author: "Mauricio Vazquez Moran"
 categories: documentation
 tags: [documentation,sample]
-image: 1.jpg
+image: artic-2.jpg
 ---
 
 
