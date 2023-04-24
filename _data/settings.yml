@@ -14,11 +14,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'github', link: 'https://github.com/MauricioVazquezM?tab=repositories'}
+- {icon: 'envelope', link:   'mailto:mvaz109@itam.mx'}
 - {icon: 'twitter', link:    'https://twitter.com/MauricioV245?t=05irT0Zx5y_Upf4boRjaNw&s=08'}
 - {icon: 'facebook', link:   'https://www.facebook.com/mauricio.vazquez.75098?mibextid=ZbWKwL'}
 - {icon: 'instagram', link:  'https://www.instagram.com/mauriciovazquezm/?igshid=MGNiNDI5ZTU%3D'}
-- {icon: 'envelope', link:   'mailto:mvaz109@itam.mx'}
-- {icon: 'github', link: 'https://github.com/MauricioVazquezM?tab=repositories'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
