@@ -17,16 +17,20 @@ I love reading and sports. In the same way, I really like outdoor activities. Tr
 
 ## EDUCATION
 #### Instituto Tecnológico Autónomo de México (Mexico City)
-**Date:** August 2020 - Deecember 2024\
+**Date:** August 2020 - Present\
 Currently studying a double major program, Actuarial Science and Data Science, with a 45% scholarship due to academic excellence. GPA: 88/100. 
 
-#### Certificate in Business and Management (Lonsdale Institute; Sydney, Australia)
-**Date:** September 2019 - March 2020\
-Participant in a program specialized in customer service and general aspects of a business. The course covered from the administrative procedures to the daily operations.
+#### Academic Exchange (Vrije Universiteit; Amsterdam, Netherlands)
+**Date:** August 2023 - Present\
+Currently studying cutting edge courses on stochastic modelling, introduction to econometrics, modelling of financial risks and financial derivatives, risk management in banking and foundations of business administration.
 
 #### Professional Certificate in Data Science (HardvardX; Online program)
 **Date:** June 2022 - Present\
 Cutting edge course on data analysis and computer programming in R language, oriented to the practical application of machine learning, data visualization and statistical inference.
+
+#### Certificate in Business and Management (Lonsdale Institute; Sydney, Australia)
+**Date:** September 2019 - March 2020\
+Participant in a program specialized in customer service and general aspects of a business. The course covered from the administrative procedures to the daily operations.
 
 #### Metaverse and Spark AR Introduction Certificate (Centro. ; Mexico City)
 **Date:** June 2022\
