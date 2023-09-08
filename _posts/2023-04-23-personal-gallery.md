@@ -28,3 +28,14 @@ image: arctic-2.jpg
 ![11](https://user-images.githubusercontent.com/98365606/233892252-a6e213d3-ff4f-4883-b17a-68cbff410639.jpg)
 
 ![12](https://user-images.githubusercontent.com/98365606/233892262-188fed21-b520-4119-b1b2-4681c79a795e.jpg)
+
+![20230831_200857](https://github.com/MauricioVazquezM/MauricioVazquezM.github.io/assets/98365606/8c82d5cf-5d32-43f0-9a42-2d402b3bfada)
+
+![20230831_175419](https://github.com/MauricioVazquezM/MauricioVazquezM.github.io/assets/98365606/348da8a4-2ee0-4546-ab1b-14046d6fa9c2)
+
+![20230828_204045](https://github.com/MauricioVazquezM/MauricioVazquezM.github.io/assets/98365606/ecf7d1c3-ec97-450e-a52d-509264880262)
+
+![IMG-20230822-WA0032](https://github.com/MauricioVazquezM/MauricioVazquezM.github.io/assets/98365606/bc2a48c5-edd3-4fd9-bd06-fa4b3c04ec83)
+
+![20230902_220401](https://github.com/MauricioVazquezM/MauricioVazquezM.github.io/assets/98365606/bba185a2-c06b-42e5-b130-eb29b44999b2)
+
